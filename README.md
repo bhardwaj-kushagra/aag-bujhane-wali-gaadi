@@ -43,6 +43,8 @@ Firefighters put their lives at risk every day to protect people and property. B
 - **Max Current:** 2A per channel.
 
 ## ⚡ Circuit Diagram & Connections
+![image](https://github.com/user-attachments/assets/286f01b5-8f88-4cec-a574-202ff964f534)
+
 ### 🏎️ **L298N Motor Driver Module → Arduino**
 | L298N Pins | Arduino Pins |
 |------------|--------------|
